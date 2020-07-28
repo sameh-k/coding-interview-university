@@ -1,5 +1,5 @@
 ﻿#  कोडिंग साक्षात्कार विश्वविद्यालय
->मैं मूल रूप से इसे एक सॉफ़्टवेयर इंजीनियर बनने के लिए अध्ययन विषयों की एक छोटी-छोटी सूची के रूप में बनाया था, लेकिन यह आज की बड़ी सूची में बढ़ी है। इस अध्ययन योजना के माध्यम से जाने के बाद, [मुझे अमेज़ॅन पर सॉफ़्टवेयर डेवलपमेंट इंजीनियर के रूप में काम पर रखा गया है !](https://startupnextdoor.com/ive-been-acquired-by->amazon/?src=ciu) आपको संभवतः जितना मैंने किया उतना ही पढ़ना नहीं होगा। वैसे भी, आपको जो भी चाहिए वह यहां है
+>मैने मूल रूप से इसे एक सॉफ़्टवेयर इंजीनियर बनने के लिए अध्ययन विषयों की एक छोटी सी सूची के रूप में बनाया था, लेकिन यह आज एक बड़ी सूची में बढ़ी है। इस अध्ययन योजना के माध्यम से जाने के बाद, [मुझे अमेज़ॅन पर सॉफ़्टवेयर डेवलपमेंट इंजीनियर के रूप में काम पर रखा गया है !](https://startupnextdoor.com/ive-been-acquired-by->amazon/?src=ciu) आपको संभवतः जितना मैंने किया उतना नहीं पढ़ना होगा। वैसे भी, आपको जो भी चाहिए वह यहां है
 >
 >यहां सूचीबद्ध आइटम आपको किसी साफ्टवेयर कंपनी के बारे में साक्षात्कार में अच्छी तरह से तैयार करेंगे, जिनमें दिग्गज, अमेज़ॅन, फेसबुक, गूगल या माइक्रोसॉफ्ट शामिल हैं।
 >
@@ -8,14 +8,14 @@
 ## यह क्या है?
 यह एक बड़ी कंपनी के लिए सॉफ्टवेयर इंजीनियर को वेब डेवलपर (स्वयं सिखाया, कोई सीएस डिग्री नहीं) से जाने के लिए मेरी बहु-महीने की अध्ययन योजना है
 
-![Coding at the whiteboard - from HBO's Silicon Valley](https://dng5l3qzreal6.cloudfront.net/2016/Aug/coding_board_small-1470866369118.jpg)
+![Coding at the whiteboard - from HBO's Silicon Valley](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
 यह नए सॉफ़्टवेयर इंजीनियरों या सॉफ़्टवेयर / वेब विकास से सॉफ़्टवेयर इंजीनियरिंग (जहां कंप्यूटर साइंस ज्ञान आवश्यक है) से स्विच करने के लिए है। यदि आपके पास कई वर्षों का अनुभव है और कई वर्षों के सॉफ्टवेयर इंजीनियरिंग अनुभव का दावा कर रहे हैं, तो एक कठिन साक्षात्कार की अपेक्षा करें।
 
-यदि आपके पास सॉफ्टवेयर / वेब विकास के कई सालों का अनुभव है, तो ध्यान दें कि सॉफ्टवेयर, वेब डेवलपमेंट से भिन्न Google, अमेज़ॅन, फेसबुक और माइक्रोसॉफ्ट दृश्य सॉफ्टवेयर इंजीनियरिंग जैसी बड़ी सॉफ्टवेयर कंपनियों और उन्हें कंप्यूटर साइंस ज्ञान की आवश्यकता होती है।
+यदि आपके पास सॉफ्टवेयर / वेब विकास के कई सालों का अनुभव है, तो ध्यान दें कि Google, अमेज़ॅन, फेसबुक और माइक्रोसॉफ्ट जैसी बड़ी सॉफ्टवेयर कंपनियों की दृष्टि में सॉफ्टवेयर इंजीनियरिंग सॉफ्टवेयर/वेब डेवलपमेंट से भिन्न है , और उन्हें कंप्यूटर साइंस ज्ञान की आवश्यकता होती है।
 
-यदि आप एक विश्वसनीयता इंजीनियर या सिस्टम इंजीनियर बनना चाहते हैं, तो वैकल्पिक सूची (नेटवर्किंग, सुरक्षा) से अधिक जानें।
-चाहिए
+यदि आप एक विश्वसनीय इंजीनियर या सिस्टम इंजीनियर बनना चाहते हैं, तो वैकल्पिक सूची (नेटवर्किंग, सुरक्षा) से अधिक जानें।
+
 ---
 
 ## अनुक्रमणिका
@@ -42,11 +42,10 @@
     - [क़ु](#queue)
     - [हैश टेबल](#hash-table)
 - [अधिक जानकारी](#more-knowledge)
-    - [एन्दिंनेस](#endianness)
     - [बाइनरी सर्च](#binary-search)
     - [बिट-वाईस ऑपेरशन](#bitwise-operations)
 - [ट्रीज](#trees)
-    - [ट्रीज पृष्टभूमि और तिपनिया](#trees---notes--background)
+    - [ट्रीज पृष्टभूमि और टिप्पणियाँ](#trees---notes--background)
     - [बाइनरी सर्च ट्री: BST](#binary-search-trees-bsts)
     - [हीप / प्रायोरिटी क्यू / बाइनरी हीप](#heap--priority-queue--binary-heap)
     - [ट्राइस](#tries)
@@ -60,7 +59,7 @@
     - [Combinatorics (n choose k) & Probability](#combinatorics-n-choose-k--probability)
     - [NP, NP-Complete and Approximation Algorithms](#np-np-complete-and-approximation-algorithms)
     - [गार्बेज कलेक्शन](#garbage-collection)
-    - [काशेस](#caches)
+    - [Caches](#caches)
     - [प्रोसेस और थ्रेड](#processes-and-threads)
     - [System Design, Scalability, Data Handling](#system-design-scalability-data-handling)
     - [Papers](#papers)
@@ -72,13 +71,13 @@
     - [Scheduling](#scheduling)
     - [Implement system routines](#implement-system-routines)
     - [String searching & manipulations](#string-searching--manipulations)
-- [आखरी समीक्षा](#final-review)
+- [आखिरी समीक्षा](#final-review)
 - [पुस्तकें](#books)
-- [कोडिंग अभ्यास/चुनौतियों](#coding-exerciseschallenges)
+- [कोडिंग अभ्यास/चुनौतियाँ](#coding-exerciseschallenges)
 - [एक बार जब आप इंटरव्यू के करीब हो](#once-youre-closer-to-the-interview)
 - [आपका रिज्यूमे](#आपका-रिज्यूमे)
 - [इंटरव्यू की सोंच](#be-thinking-of-for-when-the-interview-comes)
-- [इन्तेर्विएवर के लिए प्रश्न रखे](#have-questions-for-the-interviewer)
+- [इंटरव्यूअर के लिए प्रश्न रखे](#have-questions-for-the-interviewer)
 - [अतिरिक्त पढाई (जरुरत नहीं)](#additional-learnings-not-required)
     - [इनफार्मेशन थ्योरी](#information-theory)
     - [पारिटी और हैमिंग कोड](#parity--hamming-code)
@@ -87,7 +86,7 @@
     - [संक्षिप्तीकरण](#compression)
     - [नेटवर्किंग](#networking)
     - [संगणक सुरक्षा](#computer-security)
-    - [परैल्लेल प्रोग्रामिंग](#parallel-programming)
+    - [पैरेलल प्रोग्रामिंग](#parallel-programming)
     - [Messaging, Serialization, and Queueing Systems](#messaging-serialization-and-queueing-systems)
     - [Fast Fourier Transform](#fast-fourier-transform)
     - [ब्लूम फ़िल्टर](#bloom-filter)
@@ -103,24 +102,24 @@
     - [Discrete math](#discrete-math)
     - [मशीन लर्निंग](#मशीन-लर्निंग)
     - [गो](#गो)
-- [कुछ विषयोकी अधिक जानकारी](#कुछ-विषयोकी-अधिक-जानकारी)
+- [कुछ विषयो की अधिक जानकारी](#कुछ-विषयोकी-अधिक-जानकारी)
 - [विडियो शृखला](#विडियो-शृखला)
 - [जब आपको नौकरी मिल जाये](#जब-आपको-नौकरी-मिल-जाये)
 
 ---
 
-## इसका उपयोग क्यू करे?
+## इसका उपयोग क्यों करे?
 
-मैंने जब ये परियोजना शुरू की, तब मैं स्टैक और  हीप में फरक नहीं जनता था, मुजे नहीं पता था की Big-O क्या हे, ट्रीज क्या हे, या ग्राफ को पार कैसे करते हैं. अगर मुजे छाटने का अल्गोरिथम लिखना पड़ता तो मैं आपको ये बता सकता हु के वो इतना ख़ास नहीं होगा. जो भी डाटा स्ट्रक्चर का मैंने उपयोग किया वो भाषा में समाविष्ट था, और वो कैसे काम करता हे उसकी कोई जानकारी मुजे नहीं थी. मुजे कभी मेमोरी का संचालन नहीं करता पड़ा, जबतक मेरी चलाई कोई प्रोसेस "out of
-memory" का एरर न दे, और तब मुजे कोई वैकल्पिक हल धुन्दाना पड़ता था. मैंने मेरी जिन्दगी में  बहोत कम मुल्ती-डायमेंशनल ऐरे और बहोत सारे अस्सोसिअतिव् ऐरे का उपयोग किया हे, पर मैंने कोई भी डाटा स्ट्रक्चर शुरू से नहीं लिखा था.
-पर इस अध्ययन योजना का उपयोग करने बाद मेरा नौकरी लगाने का  आत्मविश्वास बहोत बढ़ा हें. यह एक लम्बी योजना हें. यह मेरे लिए बहोत महीनोतक चलेगी. अगर आपको ईंमैसे कुछ पता हैं तो आपको कम वक्त लगेगा.
+मैंने जब ये परियोजना शुरू की, तब मैं स्टैक और  हीप में फर्क नहीं जानता था, मुझे नहीं पता था की Big-O क्या हे, ट्रीज क्या हे, या ग्राफ को पार कैसे करते हैं. अगर मुझे छाटने का अल्गोरिथम लिखना पड़ता तो मैं आपको ये बता सकता हु कि वो इतना ख़ास नहीं होगा. जो भी डाटा स्ट्रक्चर का मैंने उपयोग किया वो भाषा में समाविष्ट था, और वो कैसे काम करता हे उसकी कोई जानकारी मुझे नहीं थी. मैं कभी मेमोरी का संचालन नहीं करता, जब तक मेरी चलाई कोई प्रोसेस "out of
+memory" का एरर न दे, और तब मुझे कोई वैकल्पिक हल ढूँढनाा पड़ता था. मैंने मेरी जिन्दगी में बहुत कम मल्टी-डायमेंशनल ऐरे और बहोत सारे associative ऐरे का उपयोग किया हे, पर मैंने कोई भी डाटा स्ट्रक्चर शुरू से नहीं लिखा था.
+पर इस अध्ययन योजना का उपयोग करने बाद मेरा नौकरी लगने का आत्मविश्वास बहुत बढ़ा हें. यह एक लम्बी योजना हें. यह मेरे लिए बहुत महीनो तक चली. अगर आपको इनमें से कुछ पता हैं तो आपको कम वक्त लगेगा.
 
 
 ## इसका कैसे उपयोग करे?
 
 नीचे सब कुछ एक रूपरेखा है, और आप ऊपर से नीचे के क्रम में पढ़े.
 
-मैं  गितहब के विशेष  मार्कडाउन का उपयोग कर रहा हूँ, प्रगति की जाँच करने के लिए कार्य सूचियों का प्रयोग करे.
+मैं  गिटहब के विशेष  मार्कडाउन का उपयोग कर रहा हूँ, प्रगति की जाँच करने के लिए कार्य सूचियों का प्रयोग करे.
 
 - [x] एक नई शाखा बनाएँ ताकि आप इस तरह की वस्तुओं की जांच कर सकते हैं, बस कोष्ठक में एक एक्स डाले: [x]
 
@@ -152,18 +151,18 @@ memory" का एरर न दे, और तब मुजे कोई वै
 
 ## इंटरव्यू के लिए एक संगणक भाषा चुने
 
-इंटरव्यू मैं आप कोंसिभी एक भाषा जिसमे आप आरामदायक हो वो चुन सकते हैं, पर गूगल के लिए निम्नलिखित भाषाएँ अच्छी रहेगी:
+इंटरव्यू मैं आप कोई भी एक भाषा जिसमे आप आरामदायक हो वो चुन सकते हैं, पर गूगल के लिए निम्नलिखित भाषाएँ अच्छी रहेगी:
 
 - C++
 - Java
 - Python
 
-आप निम्न्लिहित भाषाएँ भी चुन सकते हैं, पर उन्हें सावधानीसे चुने
+आप निम्नलिखित भाषाएँ भी चुन सकते हैं, पर उन्हें सावधानी से चुने
 
 - JavaScript
 - Ruby
 
-आपको भाषा में बहुत सहज होना चाहिए और जानकार होना चाहिए।
+आपको भाषा में बहुत सहज होना चाहिए और जानकारी होनी चाहिए।
 
 विकल्पों के बारे में अधिक पढ़ें:
 
@@ -179,7 +178,7 @@ memory" का एरर न दे, और तब मुजे कोई वै
 
 ### इंटरव्यू प्रेप
 - [ ]  प्रोग्रामिंग साक्षात्कार का खुलासा: आपकी अगली नौकरी, दूसरी संस्करण को लैंडिंग करने के लिए रहस्य
-    - सी ++ और जावा में जवाब
+    - C++ और java में जवाब
     - यह कोडिंग साक्षात्कार के लिए क्रैकिंग के लिए एक अच्छा वार्म-अप है
     - बहुत मुश्किल नहीं है, सबसे अधिक समस्याएं आपको साक्षात्कार में जो दिखाई दे रही हैं उससे अधिक आसान हो सकती हैं (मैंने जो पढ़ा है)
 - [ ] कोडिंग साक्षात्कार, 6 वें संस्करण
@@ -296,16 +295,16 @@ memory" का एरर न दे, और तब मुजे कोई वै
 
 इस सूची में कई महीनों से वृद्धि हुई है, और हाँ, यह एक तरह से हाथ से बाहर हो गयी हैं
 
-निचे कुछ गलतिया हैं जो मैंने की हैं तो आपका अनुभव बेहतर होगा
+नीचे कुछ गलतिया हैं जो मैंने की हैं तो आपका अनुभव बेहतर होगा
 
 ### १. आपसे यह सब याद नहीं होगा
 
-मैंने घंटो वीडिय के विडियो देखे और टिप्पणिया लिखी, और महीनो बाद मुजे कुछ याद नहीं रहा. सबकी समीक्षा करने के लिए मैंने 3 दिन मेरी तिप्पनिओयो और flashcards बनाने में बितायें 
+मैंने घंटो वीडियो के विडियो देखे और टिप्पणिया लिखी, और महीनो बाद मुझे कुछ याद नहीं रहा. सबकी समीक्षा करने के लिए मैंने 3 दिन मेरी टिप्पणीयो और flashcards बनाने में बितायें 
 कृपया पढ़ें तो आप मेरी गलतियां नहीं करेंगे:
 
 [कंप्यूटर विज्ञान ज्ञान को बनाए रखना](https://startupnextdoor.com/retaining-computer-science-knowledge/)
 
-### २. फ्लाश्कार्ड्स का उपयोग कीजिये 
+### २. फ़्लैशकार्ड्स का उपयोग कीजिये 
 
 इस समस्या को हल करने के लिए, मैंने एक छोटे से फ्लैशकार्ड साइट बनाई जहां मैं 2 प्रकार के फ्लैशकार्ड जोड़ सकता था: सामान्य और कोड प्रत्येक कार्ड के पास भिन्न स्वरूपण है।
 
@@ -413,11 +412,11 @@ memory" का एरर न दे, और तब मुजे कोई वै
     - एक स्वचालित रीसाइज़िंग वेक्टर को लागू करें
     - [ ] विवरण:
         - [एरे  (विडियो)](https://www.coursera.org/learn/data-structures/lecture/OsBSF/arrays)
-        - [Basic Arrays (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Basic-arrays/149042/177104-4.html)
-        - [Multi-dim (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Multidimensional-arrays/149042/177105-4.html)
+        - [Basic Arrays (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/02_04-basicArrays.mp4)
+        - [Multi-dim (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/02_05-multidimensionalArrays.mp4)
         - [Dynamic Arrays (विडियो)](https://www.coursera.org/learn/data-structures/lecture/EwbnV/dynamic-arrays)
-        - [Jagged Arrays (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Jagged-arrays/149042/177106-4.html)
-        - [Resizing arrays (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Resizable-arrays/149042/177108-4.html)
+        - [Jagged Arrays (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/02_06-jaggedArrays.mp4)
+        - [Resizing arrays (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/03_01-resizableArrays.mp4)
     - [ ] Implement a vector (mutable array with automatic resizing):
         - [ ] Practice coding using arrays and pointers, and pointer math to jump to an index instead of using indexing.
         - [ ] new raw data array with allocated memory
@@ -479,14 +478,14 @@ memory" का एरर न दे, और तब मुजे कोई वै
 
 - ### Stack
     - [ ] [Stacks (विडियो)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-    - [ ] [Using Stacks Last-In First-Out (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
+    - [ ] [Using Stacks Last-In First-Out (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/05_01-usingStacksForLast-inFirst-out.mp4)
     - [ ] Will not implement. Implementing with array is trivial.
 
 - ### Queue
-    - [ ] [Using Queues First-In First-Out(विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
+    - [ ] [Using Queues First-In First-Out(विडियो)](https://archive.org/details/0102WhatYouShouldKnow/05_03-usingQueuesForFirst-inFirst-out.mp4)
     - [ ] [Queue (विडियो)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
     - [ ] [Circular buffer/FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
-    - [ ] [Priority Queues (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
+    - [ ] [Priority Queues (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/05_04-priorityQueuesAndDeques.mp4)
     - [ ] Implement using linked-list, with tail pointer:
         - enqueue(value) - adds value at position at tail
         - dequeue() - returns value and removes least recently added element (front)
@@ -513,10 +512,10 @@ memory" का एरर न दे, और तब मुजे कोई वै
         - [ ] [(Advanced) Perfect hashing (विडियो)](https://www.youtube.com/watch?v=N0COwN14gt0&list=PL2B4EEwhKD-NbwZ4ezj7gyc_3yNrojKM9&index=4)
     
     - [ ] Online Courses:
-        - [ ] [Understanding Hash Functions (विडियो](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Understanding-hash-functions/149042/177126-4.html)
-        - [ ] [Using Hash Tables (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-hash-tables/149042/177127-4.html)
-        - [ ] [Supporting Hashing (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Supporting-hashing/149042/177128-4.html)
-        - [ ] [Language Support Hash Tables (विडियो)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Language-support-hash-tables/149042/177129-4.html)
+        - [ ] [Understanding Hash Functions (विडियो](https://archive.org/details/0102WhatYouShouldKnow/06_02-understandingHashFunctions.mp4)
+        - [ ] [Using Hash Tables (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/06_03-usingHashTables.mp4)
+        - [ ] [Supporting Hashing (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/06_04-supportingHashing.mp4)
+        - [ ] [Language Support Hash Tables (विडियो)](https://archive.org/details/0102WhatYouShouldKnow/06_05-languageSupportForHashTables.mp4)
         - [ ] [Core Hash Tables (विडियो)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/m7UuP/core-hash-tables)
         - [ ] [Data Structures (विडियो)](https://www.coursera.org/learn/data-structures/home/week/3)
         - [ ] [Phone Book Problem (विडियो)](https://www.coursera.org/learn/data-structures/lecture/NYZZP/phone-book-problem)
@@ -549,7 +548,7 @@ memory" का एरर न दे, और तब मुजे कोई वै
         - binary search using recursion
 
 - ### Bitwise operations
-    - [ ] [Bits cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-cheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
+    - [ ] [Bits cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/bits-cheat-sheet.pdf) - you should know many of the powers of 2 from (2^1 to 2^16 and 2^32)
     - [ ] Get a really good understanding of manipulating bits with: &, |, ^, ~, >>, <<
         - [ ] [words](https://en.wikipedia.org/wiki/Word_(computer_architecture))
         - [ ] Good intro:
@@ -960,7 +959,6 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - Pages 1048 - 1140 in CLRS if you have it.
 
 - ### Garbage collection
-    - [ ] [Garbage collection (Java); Augmenting data str (विडियो)](https://www.youtube.com/watch?v=StdfeXaKGEc&list=PL-XXv-cvA_iAlnI-BQr9hjqADPBtujFJd&index=25)
     - [ ] [Compilers (विडियो)](https://www.youtube.com/playlist?list=PLO9y7hOkmmSGTy5z6HZ-W4k2y8WXF7Bff)
     - [ ] [GC in Python (विडियो)](https://www.youtube.com/watch?v=iHVs_HkjdmI)
     - [ ] [Deep Dive Java: Garbage Collection is Good!](https://www.infoq.com/presentations/garbage-collection-benefits)
@@ -1123,7 +1121,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
         - For even more, see "Mining Massive Datasets" video series in the Video Series section.
     - [ ] Practicing the system design process: Here are some ideas to try working through on paper, each with some documentation on how it was handled in the real world:
         - review: [System Design from HiredInTech](http://www.hiredintech.com/system-design/)
-        - [cheat sheet](https://github.com/jwasham/google-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
+        - [cheat sheet](https://github.com/jwasham/coding-interview-university/blob/master/extras/cheat%20sheets/system-design.pdf)
         - flow:
             1. Understand the problem and scope:
                 - define the use cases, with interviewer's help
