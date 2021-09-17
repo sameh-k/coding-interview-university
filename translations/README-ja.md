@@ -34,6 +34,43 @@
 - [ギリシャ語](https://github.com/jwasham/coding-interview-university/issues/166)
 - [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
 
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
+
 ## これは何？
 
 これは、Webエンジニア(独学で、CS学位なし)から大企業のソフトウェアエンジニアを目指すための私の複数月の学習計画です。
@@ -54,50 +91,50 @@ SREまたはシステムエンジニアになりたい場合は、オプショ�
 
 
 - [コーディング面接の大学](#コーディング面接の大学)
-  - [これは何？](#これは何)
-  - [目次](#目次)
-  - [なぜこれを使用するのか](#なぜこれを使用するのか)
-  - [それの使い方](#それの使い方)
-  - [あなたは十分にスマートではないと感じないでください](#あなたは十分にスマートではないと感じないでください)
-  - [ビデオリソースについて](#ビデオリソースについて)
-  - [面接のプロセスと一般的な面接の準備](#面接のプロセスと一般的な面接の準備)
-  - [面接のための1つの言語を選ぶ](#面接のための1つの言語を選ぶ)
-  - [ブックリスト](#ブックリスト)
-    - [面接の準備](#面接の準備)
-    - [コンピュータアーキテクチャ](#コンピュータアーキテクチャ)
-    - [言語固有](#言語固有)
-    - [C++](#c)
-    - [Java](#java)
-    - [Python](#python)
-  - [始める前に](#始める前に)
-    - [1.あなたはそれをすべて覚えていない](#1あなたはそれをすべて覚えていない)
-    - [2.フラッシュカードを使用する](#2フラッシュカードを使用する)
-    - [3.レビュー、レビュー、評価](#3レビューレビュー評価)
-    - [4.フォーカス](#4フォーカス)
-  - [カバーされていないもの](#カバーされていないもの)
-  - [日々の計画](#日々の計画)
-  - [前提知識](#前提知識)
-  - [アルゴリズムの複雑さ/ Big-O / Asymptotic解析](#アルゴリズムの複雑さ-big-o--asymptotic解析)
-  - [データ構造](#データ構造)
-  - [その他の知識](#その他の知識)
-  - [木](#木)
-  - [ソート](#ソート)
-  - [グラフ](#グラフ)
-  - [さらに多くの知識](#さらに多くの知識)
-  - [システム設計、スケーラビリティ、データ処理](#システム設計スケーラビリティデータ処理)
-  - [最終レビュー](#最終レビュー)
-  - [コーディングの質問練習](#コーディングの質問練習)
-  - [コード演習/挑戦](#コード演習挑戦)
-  - [面接に近づいたら](#面接に近づいたら)
-  - [あなたの履歴書](#あなたの履歴書)
-  - [面接が来たときに考えてください](#面接が来たときに考えてください)
-  - [面接官に質問があります](#面接官に質問があります)
-  - [一度あなたは仕事を得た](#一度あなたは仕事を得た)
-  - [その他の書籍](#その他の書籍)
-  - [その他の学習](#その他の学習)
-  - [追加科目の詳細](#追加科目の詳細)
-  - [ビデオシリーズ](#ビデオシリーズ)
-  - [コンピュータサイエンスコース](#コンピュータサイエンスコース)
+	- [これは何？](#これは何)
+	- [目次](#目次)
+	- [なぜこれを使用するのか](#なぜこれを使用するのか)
+	- [それの使い方](#それの使い方)
+	- [あなたは十分にスマートではないと感じないでください](#あなたは十分にスマートではないと感じないでください)
+	- [ビデオリソースについて](#ビデオリソースについて)
+	- [面接のプロセスと一般的な面接の準備](#面接のプロセスと一般的な面接の準備)
+	- [面接のための1つの言語を選ぶ](#面接のための1つの言語を選ぶ)
+	- [ブックリスト](#ブックリスト)
+		- [面接の準備](#面接の準備)
+		- [コンピュータアーキテクチャ](#コンピュータアーキテクチャ)
+		- [言語固有](#言語固有)
+		- [C++](#c)
+		- [Java](#java)
+		- [Python](#python)
+	- [始める前に](#始める前に)
+		- [1.あなたはそれをすべて覚えていない](#1あなたはそれをすべて覚えていない)
+		- [2.フラッシュカードを使用する](#2フラッシュカードを使用する)
+		- [3.レビュー、レビュー、評価](#3レビューレビュー評価)
+		- [4.フォーカス](#4フォーカス)
+	- [カバーされていないもの](#カバーされていないもの)
+	- [日々の計画](#日々の計画)
+	- [前提知識](#前提知識)
+	- [アルゴリズムの複雑さ/ Big-O / Asymptotic解析](#アルゴリズムの複雑さ-big-o--asymptotic解析)
+	- [データ構造](#データ構造)
+	- [その他の知識](#その他の知識)
+	- [木](#木)
+	- [ソート](#ソート)
+	- [グラフ](#グラフ)
+	- [さらに多くの知識](#さらに多くの知識)
+	- [システム設計、スケーラビリティ、データ処理](#システム設計スケーラビリティデータ処理)
+	- [最終レビュー](#最終レビュー)
+	- [コーディングの質問練習](#コーディングの質問練習)
+	- [コード演習/挑戦](#コード演習挑戦)
+	- [面接に近づいたら](#面接に近づいたら)
+	- [あなたの履歴書](#あなたの履歴書)
+	- [面接が来たときに考えてください](#面接が来たときに考えてください)
+	- [面接官に質問があります](#面接官に質問があります)
+	- [一度あなたは仕事を得た](#一度あなたは仕事を得た)
+	- [その他の書籍](#その他の書籍)
+	- [その他の学習](#その他の学習)
+	- [追加科目の詳細](#追加科目の詳細)
+	- [ビデオシリーズ](#ビデオシリーズ)
+	- [コンピュータサイエンスコース](#コンピュータサイエンスコース)
 
 ## なぜこれを使用するのか
 
@@ -400,7 +437,7 @@ Anki形式の私のフラッシュカードデータベース：https://ankiweb.
 - 実装するものは何もない
 - [ ]  [Harvard CS50 - 漸近表記(video)](https://www.youtube.com/watch?v=iOq5kSKqeR4)
 - [ ]  [BigO記法(一般的なクイックチュートリアル)(ビデオ)](https://www.youtube.com/watch?v=V6mKVRU1evU)
-- [ ] BigO表記(とオメガとシータ) - 最良の数学的説明(ビデオ)(https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
+- [ ] [BigO表記(とオメガとシータ) - 最良の数学的説明(ビデオ)](https://www.youtube.com/watch?v=ei-A_wy5Yxw&index=2&list=PL1BaGV1cIH4UhkL8a9bJGG356covJ76qN)
 - [ ] Skiena：
 	- [動画](https://www.youtube.com/watch?v=gSyDMtdPNpU&index=2&list=PLOtl7M3yp-DV69F32zdK7YJcNXpTunF2b)
 	- [スライド](http://www3.cs.stonybrook.edu/~algorith/video-lectures/2007/lecture2.pdf)
@@ -455,7 +492,7 @@ Anki形式の私のフラッシュカードデータベース：https://ankiweb.
 	- [ ] 時間
 		- 最後に追加/削除するO(1)(スペースを増やすために償却される)、索引、または更新
 		- 他の場所に挿入/削除するO(n)
-    - [ ]  空間
+    - [ ]  空間
 		- メモリ内で連続しているため、プロキシミティはパフォーマンスに役立ちます
 		- 必要なスペース=(配列の容量, > = n)*アイテムのサイズですが、2nでもO(n)
 
@@ -468,7 +505,7 @@ Anki形式の私のフラッシュカードデータベース：https://ankiweb.
             ビデオ全体ではなく、ノード構造体とメモリ割り当てに関する部分だけです。
 	- [ ] 連結リスト Vs 配列：
 		- [コア連結リストs Vs 配列(ビデオ)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/rjBs9/core-linked-lists-vs-arrays)
-		- [実世界の連結リスト Vs 配列(ビデオ)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/quaUd/in-the-real-world-lists-vs)アレー)
+		- [実世界の連結リスト Vs 配列(ビデオ)](https://www.coursera.org/learn/data-structures-optimizing-performance/lecture/quaUd/in-the-real-world-lists-vs)
 	- [ ]  [連結リスト(ビデオ)を避けるべき理由](https://www.youtube.com/watch?v=YQs6IC-vgmo)
 	- [ ]  分かったぞ！：ポインタの知識へのポインタが必要です：
         (そのポインタが指すアドレスを変更する可能性のある関数へのポインタを渡すとき)
@@ -495,11 +532,11 @@ Anki形式の私のフラッシュカードデータベース：https://ankiweb.
 
 - ### スタック
 	- [ ]  [Stacks(video)](https://www.coursera.org/learn/data-structures/lecture/UdKzQ/stacks)
-	- [ ]  [スタックをの使用 Last-In First-Out(ビデオ)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4 .html)
+	- [ ]  [スタックをの使用 Last-In First-Out(ビデオ)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-stacks-last-first-out/149042/177120-4.html)
 	- [ ] 実装されません。配列で実装するのは簡単です。
 
 - ### キュー
-	- [ ]  [キューの使用 First-In First-Out(ビデオ)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4 .html)
+	- [ ]  [キューの使用 First-In First-Out(ビデオ)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Using-queues-first-first-out/149042/177122-4.html)
 	- [ ]  [キュー(video)](https://www.coursera.org/learn/data-structures/lecture/EShpq/queue)
 	- [ ]  [環状バッファ/ FIFO](https://en.wikipedia.org/wiki/Circular_buffer)
 	- [ ]  [優先度つきキュー(ビデオ)](https://www.lynda.com/Developer-Programming-Foundations-tutorials/Priority-queues-deques/149042/177123-4.html)
@@ -579,7 +616,7 @@ Anki形式の私のフラッシュカードデータベース：https://ankiweb.
 		- [2つの次のパワーに回す](http://bits.stephan-brumme.com/roundUpToNextPowerOfTwo.html)
 	- [ ] スワップ値：
 		- [スワップ](http://bits.stephan-brumme.com/swap.html)
-    - [ ]  絶対値：
+	- [ ]  絶対値：
 		- [絶対整数](http://bits.stephan-brumme.com/absInteger.html)
 
 ## 木
@@ -809,7 +846,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 	- それを使用するのが適切なとき
 	- 尾の再帰はどのように優れていないのですか？
 		- [ ]  [テール再帰とは何かなぜそれが悪いのですか？](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-		- [ ]  [テール再帰(ビデオ)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+		- [ ]  [テール再帰(ビデオ)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### 動的プログラミング
 	- この問題はかなり難しいかもしれません。なぜなら、それぞれのDP可溶性問題は再帰関係として定義されなければならず、それを思い付くのは難しいかもしれないからです。
@@ -832,7 +869,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 		- [ ]  [動的プログラミングのアルゴリズム(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/PSonq/a-dynamic-programming-algorithm)
 		- [ ]  [DPアルゴリズムの説明(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/oUEK2/illustrating-the-dp-algorithm)
 		- [ ]  [DPアルゴリズムの実行時間(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/nfK2r/running-time-of-the-dp-algorithm)
-        - [ ] [[DP Vs 再帰的実装(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
+  		- [ ] [DP Vs 再帰的実装(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/M999a/dp-vs-recursive-implementation)
 		- [ ]  [グローバル対配列アライメント(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/UZ7o6/global-pairwise-sequence-alignment)
 		- [ ]  [ローカル対配列アライメント(ビデオ)](https://www.coursera.org/learn/algorithmic-thinking-2/lecture/WnNau/local-pairwise-sequence-alignment)
 
@@ -853,8 +890,8 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 		- [ ]  I - [インタフェース分離の原則](http://www.oodesign.com/interface-segregation-principle.html)|クライアントは、使用しないインタフェースを強制的に実装するべきではありません
 			- [インタフェース分離の原則5分(ビデオ)](https://www.youtube.com/watch?v=3CtAfl7aXAQ)
 			- [もっと味](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgOTViYjJhYzMtMzYxMC00MzFjLWJjMzYtOGJiMDc5N2JkYmJi&hl=ja)
-		- [ ]  D - [依存性逆転の原則(http://www.oodesign.com/dependency-inversion-principle.html)|オブジェクトの構成における依存関係を減らす。
-			- なぜ依存関係の逆転の原則とそれが重要なのか(http://stackoverflow.com/questions/62539/what-is-the-dependency-inversion-principle-and-why-is-it-important)
+		- [ ]  D - [依存性逆転の原則](http://www.oodesign.com/dependency-inversion-principle.html)|オブジェクトの構成における依存関係を減らす。
+			- [なぜ依存関係の逆転の原則とそれが重要なのか](http://stackoverflow.com/questions/62539/what-is-the-dependency-inversion-principle-and-why-is-it-important)
 			- [もっと味](http://docs.google.com/a/cleancoder.com/viewer?a=v&pid=explorer&chrome=true&srcid=0BwhCYaYDn8EgMjdlMWIzNGUtZTQ0NC00ZjQ5LTkwYzQtZjRhMDRlNTQ3ZGMz&hl=ja)
 
 - ### デザインパターン
@@ -977,7 +1014,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 	- [ ]  [2006：疎結合分散システムのChubby Lockサービス](https://research.google.com/archive/chubby-osdi06.pdf)
 	- [ ]  [2007：Dynamo：Amazonの高可用性 key valueストア](https://www.akkadia.org/drepper/cpumemory.pdf)
 		- Dynamo紙がNoSQL革命を開始
-	- すべてのプログラマーがメモリについて知っておくべきこと(非常に長く、著者はいくつかのセクションのスキップを奨励する)](https://www.akkadia.org/drepper/cpumemory.pdf)
+	- [すべてのプログラマーがメモリについて知っておくべきこと(非常に長く、著者はいくつかのセクションのスキップを奨励する)](https://www.akkadia.org/drepper/cpumemory.pdf)
 	- [ ]  [2010：Dapper、大規模分散システム追跡基盤](https://research.google.com/pubs/archive/36356.pdf)
 	- [ ]  [2010：Dremel：Web-Scaleデータセットのインタラクティブ解析](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/36632.pdf)
 	- [ ]  [2012：Googleの巨像](https://www.wired.com/2012/07/google-colossus/)
@@ -1071,7 +1108,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 	- そうでなければ、これは知っているだけでいいです
 	- [ ]  [Khan Academy](https://www.khanacademy.org/computing/computer-science/internet-intro)
 	- [ ]  [UDPとTCP：トランスポートプロトコルの比較](https://www.youtube.com/watch?v=Vdc8TCESIg8)
-	- [[TCP / IPとOSIモデルの説明!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
+	- [TCP / IPとOSIモデルの説明!](https://www.youtube.com/watch?v=e5DEVa9eSN0)
 	- [ ]  [インターネット経由のパケット伝送。ネットワーク＆TCP / IPチュートリアル](https://www.youtube.com/watch?v=nomyRJehhnM)
 	- [ ]  [HTTP](https://www.youtube.com/watch?v=WGJrLqtX7As)
 	- [ ]  [SSLとHTTPS](https://www.youtube.com/watch?v=S2iBR2ZlZf0)
@@ -1160,19 +1197,19 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 	- [ ]  [Tinder：どのようにして最大のレコメンデーションエンジンの誰があなたが次に誰を見るか決定する？](http://highscalability.com/blog/2016/1/27/tinder-how-does-one-of-the-largest-recommendation-engines-de.html)
 	- [ ]  [現代のキャッシュのデザイン](http://highscalability.com/blog/2016/1/25/design-of-a-modern-cache.html)
 	- [ ]  [Facebookのスケールでライブビデオストリーミング](http://highscalability.com/blog/2016/1/13/live-video-streaming-at-facebook-scale.html)
-    - [ ]  [AmazonのAWSで1,100万人以上のユーザーに拡大するための初心者向けガイド](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
+	- [ ]  [AmazonのAWSで1,100万人以上のユーザーに拡大するための初心者向けガイド](http://highscalability.com/blog/2016/1/11/a-beginners-guide-to-scaling-to-11-million-users-on-amazons.html)
 	- [ ]  [Dockerの効果待ち時間の使用方法](http://highscalability.com/blog/2015/12/16/how-does-the-use-of-docker-effect-latency.html)
 	- [ ]  [AMPはGoogleに存在する脅威に対抗していますか？](http://highscalability.com/blog/2015/12/14/does-amp-counter-an-existential-threat-to-google.html)
-	- [ ]  [全Netflixスタックの360度ビュー](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) )
+	- [ ]  [全Netflixスタックの360度ビュー](http://highscalability.com/blog/2015/11/9/a-360-degree-view-of-the-entire-netflix-stack.html) 
 	- [ ]  [レイテンシはどこにでもあり、それはあなたのセールスに費やされます - それを粉砕する方法](http://highscalability.com/latency-everywhere-and-it-costs-you-sales-how-crush-it)
-	- [ ]  [サーバーレス(非常に長い、要点が必要)](http://martinfowler.com/articles/serverless.html)
+	- [ ]  [サーバーレス(非常に長い、要点が必要](http://martinfowler.com/articles/serverless.html)
 	- [ ]  [Instagramを動かすもの：何百ものインスタンス、数十のテクノロジ](http://instagram-engineering.tumblr.com/post/13649370142/what-powers-instagram-hundreds-of-instances)
 	- [ ] [シンクキャストアーキテクチャ - 毎日1,500時間の音声を生成する](http://highscalability.com/blog/2012/7/16/cinchcast-architecture-producing-1500-hours-of-audio-every-d.html)
 	- [ ]  [Justin.Tvのライブビデオブロードキャストアーキテクチャ](http://highscalability.com/blog/2010/3/16/justintvs-live-video-broadcasting-architecture.html)
-	- [ ]  [Playfishのソーシャルゲームアーキテクチャ - 月間5000万人のユーザーと成長](http://highscalability.com/blog/2010/9/21/playfishs-social-gaming-architecture-50-million-monthly-user.html) )
+	- [ ]  [Playfishのソーシャルゲームアーキテクチャ - 月間5000万人のユーザーと成長](http://highscalability.com/blog/2010/9/21/playfishs-social-gaming-architecture-50-million-monthly-user.html) 
 	- [ ]  [アーキテクチャ - 40Mビジター、200Mダイナミックページビュー、30TBデータ]()
 	- [ ]  [PlentyOfFishアーキテクチャ](http://highscalability.com/plentyoffish-architecture)
-	- [ ]  [Salesforceのアーキテクチャ - どのように130億回のトランザクションを処理するか](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html) )
+	- [ ]  [Salesforceのアーキテクチャ - どのように130億回のトランザクションを処理するか](http://highscalability.com/blog/2013/9/23/salesforce-architecture-how-they-handle-13-billion-transacti.html) 
 	- [ ]  [ESPNの規模でのアーキテクチャ - 毎秒100,000のDuh Nuh Nuhsで動作](http://highscalability.com/blog/2013/11/4/espns-architecture-at-scale-operating-at-100000-duh-nuh-nuhs.html)
 	- [ ] サービスを結合する技術の情報については、以下の「メッセージング、シリアライゼーション、およびキューイングシステム」を参照してください。
 	- [ ]  Twitter：
@@ -1508,7 +1545,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 		- [エラー修正](https://www.youtube.com/watch?v=JAMLuxdHH8o)
 	- [ ]  [エラーチェック](https://www.youtube.com/watch?v=wbH2VxzmoZk)
 
-- ## #エントロピー
+- ### エントロピー
 	- 下記の動画もご覧ください
 	- 最初に情報理論ビデオを見てください
 	- [情報理論、Claude Shannon、エントロピー、冗長性、データ圧縮およびビット(ビデオ)](https://youtu.be/JnJq3Py0dyM?t=176)
@@ -1600,7 +1637,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 	- [Bloom Filter Appを書く方法](http://blog.michaelschmatz.com/2016/04/11/how-to-write-a-bloom-filter-cpp/)
 
 - ### HyperLogLog
-	- [わずか1.5KBのメモリを使用して10億の異なるオブジェクトを数える方法](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct -objects-us.html)
+	- [わずか1.5KBのメモリを使用して10億の異なるオブジェクトを数える方法](http://highscalability.com/blog/2012/4/5/big-data-counting-how-to-count-a-billion-distinct-objects-us.html)
 
 - ### 局所性に敏感なハッシング
 	- ドキュメントの類似性を判断するために使用されます。
@@ -1609,7 +1646,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 
 - ### ヴァンEmde Boasの木
 	- [Divide＆Conquer：van Emde Boas Trees(ビデオ)](https://www.youtube.com/watch?v=hmReJCupbNU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=6)
-	- [ ]  [MIT講義ノート](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/lecture -notes / MIT6_046JS12_lec15.pdf)
+	- [ ]  [MIT講義ノート](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2012/lecture-notes/MIT6_046JS12_lec15.pdf)
 
 - ### 拡張データ構造
 	- [ ]  [CS 61B講義39：データ構造の拡張](https://youtu.be/zksIj9O8_jc?list=PL4BBB74C7D2A1049C&t=950)
@@ -1628,7 +1665,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
     B-Treeについては、非常に大規模なデータセットで非常に広く使用されているため、詳細を知りたい。
 	- [ ]  [Self-balancing binary search tree](https://en.wikipedia.org/wiki/Self-balancing_binary_search_tree)
 
-	- [ ]  ** AVL木**
+	- [ ]  **AVL木**
         - 実際には：
             私が言うことから、これらは実際にはあまり使われていませんが、どこになるか分かります。
             AVL木は、O(log n)検索、挿入、および削除をサポートする別の構造です。より厳格に
@@ -1663,7 +1700,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 		- [Aduni - アルゴリズム - 講義4(リンク先のジャンプ先)(ビデオ)](https://youtu.be/1W3x0f_RmUo?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3871)
 		- [Aduni - アルゴリズム - 講義5(ビデオ)](https://www.youtube.com/watch?v=hm2GHwyKF1o&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&index=5)
 		- [ ]  [黒い木](https://en.wikipedia.org/wiki/Red%E2%80%93black_tree)
-		- [ ]  [バイナリサーチとレッドブラック木の紹介](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red -black-trees /)
+		- [ ]  [バイナリサーチとレッドブラック木の紹介](https://www.topcoder.com/community/data-science/data-science-tutorials/an-introduction-to-binary-search-and-red-black-trees/)
 
 - [ ]  **2-3の検索木**
     - 実際には：
@@ -1742,7 +1779,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 	- [ ]  [Pythonで線形方程式を解く - シンプレックスアルゴリズム](https://www.youtube.com/watch?v=44pAWI7v5Zk)
 
 - ### 幾何学、凸包(ビデオ)
-	- [ ]  [Graph Alg。 IV：幾何学アルゴリズムの紹介 - 講義9(https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
+	- [ ]  [Graph Alg。 IV：幾何学アルゴリズムの紹介 - 講義9](https://youtu.be/XIAQRlNkJAw?list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm&t=3164)
 	- [ ]  [Geometric Algorithms：Graham＆Jarvis - 講義10](https://www.youtube.com/watch?v=J5aJEcOr6Eo&index=10&list=PLFDnELG9dpVxQCxuD-9BSy2E7BWY3t5Sm)
 	- [Divide＆Conquer：Convex Hull、Median Finding](https://www.youtube.com/watch?v=EzeYI7p9MjU&list=PLUl4u3cNGP6317WaSNfmCvGym2ucw3oGp&index=2)
 
@@ -1863,7 +1900,7 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 
 - [ ]  [コンピュータサイエンス70,001 - 春2015 - 離散数学と確率論](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
-- [ ]  [Shai Simonsonによる離散数学(19ビデオ)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ]  [Shai Simonsonによる離散数学(19ビデオ)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [ ]  [離散数学第1部：Sarada Herke(5ビデオ)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -1904,14 +1941,14 @@ Skienaの本(下記の書籍の節を参照)と面接の書籍
 
 - [ ]  [MIT 6.858コンピュータシステムセキュリティ、2014年秋](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [ ]  [Stanford：Programming Paradigms(27ビデオ)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [ ]  [Stanford：Programming Paradigms(27ビデオ)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [ ]  [Christof Paarによる暗号の概要](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
 	- [スライドと問題セットと一緒のコースウェブサイト](http://www.crypto-textbook.com/)
 
 - [ ]  [Mining Massive Datasets - スタンフォード大学(94ビデオ)](https://www.youtube.com/playlist?list=PLLssT5z_DsK9JDLcT8T62VtzwyW9LNepV)
 
-- [ ] グラフ理論(Sarada Herke)(67ビデオ)(https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
+- [ ] [グラフ理論(Sarada Herke)(67ビデオ)](https://www.youtube.com/user/DrSaradaHerke/playlists?shelf_id=5&view=50&sort=dd)
 
 ## コンピュータサイエンスコース
 

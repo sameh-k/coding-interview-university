@@ -1,34 +1,121 @@
 # Coding Interview University
 
-Original: [англійською](README.md)
+Original in [English](README.md)
+
+> Спочатку я створив це як короткий список завдань для вивчення тем, щоб стати
+інженером-програмістом, але він збільшився до великого списку, який ви бачите
+сьогодні. Пройшовши цей навчальний план,
+[мене найняли розробником програмного забезпечення в Amazon](https://startupnextdoor.com/ive-been-acquired-by-amazon/?src=ciu)!
+>
+> Я навчався приблизно 8-12 годин на день, протягом декількох місяців. Це моя
+історія:
+[Чому я навчався очно протягом 8 місяців для інтерв’ю в Google](https://medium.freecodecamp.org/why-i-studied-full-time-for-8-months-for-a-google-interview-cc662ce9bb13).
+>
+> Перелічені тут ресурси добре підготують вас до технічної співбесіди практично
+в будь-якій компанії, включаючи гігантів: Amazon, Facebook, Google та
+Microsoft.
+>
+> *Нехай щастить!*
+
+<details>
+<summary>Переклади:</summary>
+
+- [中文版本](translations/README-cn.md)
+- [Tiếng Việt - Vietnamese](translations/README-vi.md)
+- [Español](translations/README-es.md)
+- [Português Brasileiro](translations/README-ptbr.md)
+- [Polish](translations/README-pl.md)
+- [繁體中文](translations/README-tw.md)
+- [Japanese (日本語)](translations/README-ja.md)
+- [Russian](translations/README-ru.md)
+- [German](translations/README-de.md)
+- [Bahasa Indonesia](translations/README-id.md)
+- [ខ្មែរ - Khmer](translations/README-kh.md)
+
+</details>
+
+<details>
+<summary>Переклади в процесі:</summary>
+
+- [हिन्दी](https://github.com/jwasham/coding-interview-university/issues/81)
+- [עברית](https://github.com/jwasham/coding-interview-university/issues/82)
+- [Arabic](https://github.com/jwasham/coding-interview-university/issues/98)
+- [Turkish](https://github.com/jwasham/coding-interview-university/issues/90)
+- [French](https://github.com/jwasham/coding-interview-university/issues/89)
+- [Українська](https://github.com/jwasham/coding-interview-university/issues/106)
+- [Korean(한국어)](https://github.com/jwasham/coding-interview-university/issues/118)
+- [Telugu](https://github.com/jwasham/coding-interview-university/issues/117)
+- [Urdu](https://github.com/jwasham/coding-interview-university/issues/519)
+- [Thai](https://github.com/jwasham/coding-interview-university/issues/156)
+- [Greek](https://github.com/jwasham/coding-interview-university/issues/166)
+- [Italian](https://github.com/jwasham/coding-interview-university/issues/170)
+- [Malayalam](https://github.com/jwasham/coding-interview-university/issues/239)
+
+</details>
+
+<div align="center">
+	<hr />
+    <p>
+        <a href="https://github.com/sponsors/jwasham"><strong>Become a sponsor</strong> and support Coding Interview University!</a>
+    </p>
+    <p>
+        <strong>Special thanks to:</strong>
+    </p>
+    <p>
+        <a href="https://oss.capital/">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/oss-capital.svg" width="350" alt="OSS Capital">
+            </div>
+            <div>
+                <sup><strong>Founded in 2018, OSS Capital is the first and only venture capital platform focused<br>exclusively on supporting early-stage COSS (commercial open source) startup founders.</strong></sup>
+            </div>
+        </a>
+    </p>
+    <br />
+    <p>
+        <a href="https://www.gitpod.io/?utm_campaign=jwasham&utm_medium=referral&utm_content=coding-interview-university&utm_source=github">
+            <div>
+                <img src="https://d3j2pkmjtin6ou.cloudfront.net/sponsors/gitpod-logo-light-theme.svg" width="300" alt="Gitpod">
+            </div>
+            <div>
+                <p>
+                    <strong>Dev environments built for the cloud</strong>
+                </p>
+            </div>
+            <div>
+                <sup>Natively integrated with GitLab, GitHub, and Bitbucket, Gitpod automatically and continuously prebuilds dev environments for all your branches. As a result team members can instantly start coding with fresh dev environments for each new task - no matter if you are building a new feature, want to fix a bug, or work on a code review.</sup>
+            </div>
+        </a>
+    </p>
+    <hr />
+</div>
 
 ## Що це?
 
-Це мій багатомісячний навчальний план для перетворення з веб-розробника (самоучки без ступеню з CS)
-на розробника програмного забезпечення у Google.
+Це мій багатомісячний план навчання для переходу від веб-розробника (самоука,
+без ступеня з комп'ютерних наук) до інженера програмного забезпечення для
+великої компанії.
 
 ![Програмування у дошки — з серіалу «Silicon Valley» HBO](https://d3j2pkmjtin6ou.cloudfront.net/coding-at-the-whiteboard-silicon-valley.png)
 
-Цей довгий список був видобутий і розширений з **тренувальних нотаток Google**, отже це речі, які ви повинні знати.
-Тут є додаткові пункти, які я додав знизу — вони можуть зустрітися в інтерв’ю або бути корисними у вирішенні завдань.
-Багато пунктів взято з «[Get that job at Google](http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html)» Steve Yegge,
-вони іноді дослівно відображаються в тренувальних нотатках Google.
+Цей список призначено
+**для піонерів у сфері розробки програмного забезпечення** або
+тих, хто переходить від кодування/веб-розробки до більш архітектурних,
+інженерних рішень (де потрібні знання комп'ютерних наук). Якщо у вас
+багаторічний досвід і ви стверджуєте, що він таким є, очікуйте більш важкого
+інтерв’ю.
 
-Я обрав, що вам потрібно знати, базуючись на рекомендаціях Yegge. Я вніс зміни до вимог Yegge на основі інформації,
-отриманої від мого контакту у Google. Це призначено для **нових розробників програмного забезпечення** або тих,
-що переходять з веб-розробки на розробку програмного забезпечення (де потрібне знання CS). Якщо у вас багаторічний
-досвід, і ви заявляєте про багаторічний досвід розробки програмного забезпечення, очікуйте на більш жорстке інтерв’ю.
-[Прочитайте більше](https://googleyasheck.com/what-you-need-to-know-for-your-google-interview-and-what-you-dont/).
+Також якщо у вас є багаторічний досвід кодування/веб-розробки, зверніть увагу,
+що великі компанії-розробники програмного забезпечення, такі як Google, Amazon,
+Facebook та Microsoft, відрізняють розробку програмного забезпечення
+від веб-розробки, і вони потребують знання комп'ютерних наук.
 
-Якщо у вас багато років досвіду веб-розробки, майте на увазі, що Google відрізняє розробку програмного забезпечення
-від веб-розробки, і вони потребують знання Computer Science.
-
-Якщо ви хочете бути інженером з надійності або системним інженером, вчіть більше за опціональним списком (мережі,
-безпека).
+Якщо ви хочете бути інженером з надійності або системним інженером, вчіть
+більше за опціональним списком (мережі, безпека).
 
 ---
 
-## Таблиця контенту
+## Зміст
 
 - [Що це?](#Що-це)
 - [Чому це використовувати?](#Чому-це-використовувати)
@@ -878,7 +965,7 @@ You'll get more graph practice in Skiena's book (see Books section below) and th
     - when it is appropriate to use it
     - how is tail recursion better than not?
         - [ ] [What Is Tail Recursion Why Is It So Bad?](https://www.quora.com/What-is-tail-recursion-Why-is-it-so-bad)
-        - [ ] [Tail Recursion (video)](https://www.youtube.com/watch?v=L1jjXGfxozc)
+        - [ ] [Tail Recursion (video)](https://www.coursera.org/lecture/programming-languages/tail-recursion-YZic1)
 
 - ### Dynamic Programming
     - This subject can be pretty difficult, as each DP soluble problem must be defined as a recursion relation, and coming up with it can be tricky.
@@ -1442,11 +1529,11 @@ You're never really done.
 
     *****************************************************************************************************
     *****************************************************************************************************
-
+    
     Everything below this point is optional.
     By studying these, you'll get greater exposure to more CS concepts, and will be better prepared for
     any software engineering job. You'll be a much more well-rounded software engineer.
-
+    
     *****************************************************************************************************
     *****************************************************************************************************
 
@@ -1881,7 +1968,7 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [ ] [Computer Science 70, 001 - Spring 2015 - Discrete Mathematics and Probability Theory](https://www.youtube.com/playlist?list=PL-XXv-cvA_iD8wQm8U0gG_Z1uHjImKXFy)
 
-- [ ] [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PL3o9D4Dl2FJ9q0_gtFXPh_H4POI5dK0yG)
+- [ ] [Discrete Mathematics by Shai Simonson (19 videos)](https://www.youtube.com/playlist?list=PLWX710qNZo_sNlSWRMVIh6kfTjolNaZ8t)
 
 - [ ] [Discrete Mathematics Part 1 by Sarada Herke (5 videos)](https://www.youtube.com/playlist?list=PLGxuz-nmYlQPOc4w1Kp2MZrdqOOm4Jxeo)
 
@@ -1922,7 +2009,7 @@ Sit back and enjoy. "Netflix and skill" :P
 
 - [ ] [MIT 6.858 Computer Systems Security, Fall 2014](https://www.youtube.com/watch?v=GqmQg-cszw4&index=1&list=PLUl4u3cNGP62K2DjQLRxDNRi0z2IRWnNh)
 
-- [ ] [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/view_play_list?p=9D558D49CA734A02)
+- [ ] [Stanford: Programming Paradigms (27 videos)](https://www.youtube.com/playlist?list=PL9D558D49CA734A02)
 
 - [ ] [Introduction to Cryptography by Christof Paar](https://www.youtube.com/playlist?list=PL6N5qY2nvvJE8X75VkXglSrVhLv1tVcfy)
     - [Course Website along with Slides and Problem Sets](http://www.crypto-textbook.com/)
